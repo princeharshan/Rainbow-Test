@@ -1,0 +1,2 @@
+# Rainbow-Test
+init
