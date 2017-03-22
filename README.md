@@ -1,2 +1,4 @@
 # Rainbow-Test
-init test
+init
+
+Tried and tested
